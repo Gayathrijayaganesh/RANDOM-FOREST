@@ -8,7 +8,7 @@ The (random forest) algorithm establishes the outcome based on the predictions o
 
 A random forest eradicates the limitations of a decision tree algorithm. It reduces the overfitting of datasets and increases precision. It generates predictions without requiring many configurations in packages 
 
-#Features of a Random Forest Algorithm
+# Features of a Random Forest Algorithm
 
 
 It’s more accurate than the decision tree algorithm.
